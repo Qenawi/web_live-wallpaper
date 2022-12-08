@@ -2,7 +2,7 @@
   "name": "live_wallpaper",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://qenawi.github.io/web_live-wallpaper",
+  "homepage": "https://qenawi.github.io/web_live-wallpaper/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
